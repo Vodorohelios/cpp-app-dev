@@ -1,0 +1,52 @@
+EXPORTS
+    _ZN4File10deleteSelfEv @1
+    _ZN4File4readEPS_ @2
+    _ZN4File5writeEPS_ @3
+    _ZN4File7rewriteEPS_ @4
+    _ZN4FileC1ERKSsP6Folder @5
+    _ZN4FileC2ERKSsP6Folder @6
+    _ZN6Entity7setNameERKSs @7
+    _ZN6Entity9setParentEP6Folder @8
+    _ZN6EntityC1ERKSsP6Folder @9
+    _ZN6EntityC1Ev @10
+    _ZN6EntityC2ERKSsP6Folder @11
+    _ZN6EntityC2Ev @12
+    _ZN6EntityD0Ev @13
+    _ZN6EntityD1Ev @14
+    _ZN6EntityD2Ev @15
+    _ZN6Folder10deleteSelfEv @16
+    _ZN6Folder11removeChildEPK6Entity @17
+    _ZN6Folder13printChildrenEv @18
+    _ZN6Folder8addChildEP6Entity @19
+    _ZN6Folder9findChildERKSs @20
+    _ZN6Folder9findChildERSs @21
+    _ZN6FolderC1ERKSsPS_ @22
+    _ZN6FolderC2ERKSsPS_ @23
+    _ZN6FolderD0Ev @24
+    _ZN6FolderD1Ev @25
+    _ZN6FolderD2Ev @26
+    _ZN7Console16setCurrentFolderEP6Folder @27
+    _ZN7Console24printFolderFromBeginningEP6Folder @28
+    _ZN7Console2cdERKSs @29
+    _ZN7Console2lsEP6Folder @30
+    _ZN7Console3catEv @31
+    _ZN7Console3delERKSs @32
+    _ZN7Console3delERSs @33
+    _ZN7Console3runEv @34
+    _ZN7Console5mkdirERKSs @35
+    _ZN7Console5mkdirERSs @36
+    _ZN7Console6createERKSs @37
+    _ZN7Console6createERSs @38
+    _ZN7Console6promptEv @39
+    _ZN7ConsoleC1Ev @40
+    _ZN7ConsoleC2Ev @41
+    _ZNK6Entity7getNameEv @42
+    _ZNK6Entity9getParentEv @43
+    _ZNK6Folder17getNumberOfChildsEv @44
+    _ZNK7Console16getCurrentFolderEv @45
+    _ZTI4File @46 DATA
+    _ZTI6Entity @47 DATA
+    _ZTI6Folder @48 DATA
+    _ZTV4File @49 DATA
+    _ZTV6Entity @50 DATA
+    _ZTV6Folder @51 DATA
